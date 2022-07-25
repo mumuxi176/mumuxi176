@@ -36,6 +36,8 @@
 
 :rocket: [制作徽标](https://shields.io/)
 
+[更多徽标](https://github.com/Envoy-VC/awesome-badges)
+
 > 动态徽标
 >
 > ```
